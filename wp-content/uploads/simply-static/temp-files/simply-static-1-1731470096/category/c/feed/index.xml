@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>C &#8211; Gerak Jakarta</title>
+	<atom:link href="https://rakhmany.github.io/gerakjakarta/category/c/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rakhmany.github.io/gerakjakarta</link>
+	<description>Gerak Jakarta Sejarah Ruang – Ruang Hidup</description>
+	<lastBuildDate>Mon, 04 Nov 2024 08:35:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://rakhmany.github.io/gerakjakarta/wp-content/uploads/2024/11/cropped-logo-gerak-jakarta-65x68.png</url>
+	<title>C &#8211; Gerak Jakarta</title>
+	<link>https://rakhmany.github.io/gerakjakarta</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Post 2</title>
+		<link>https://rakhmany.github.io/gerakjakarta/2024/11/04/post-2/</link>
+					<comments>https://rakhmany.github.io/gerakjakarta/2024/11/04/post-2/#respond</comments>
+		
+		<dc:creator><![CDATA[superadmin]]></dc:creator>
+		<pubDate>Mon, 04 Nov 2024 08:30:14 +0000</pubDate>
+				<category><![CDATA[C]]></category>
+		<guid isPermaLink="false">https://rakhmany.github.io/gerakjakarta/?p=960</guid>
+
+					<description><![CDATA[Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis omnis laudantium sapiente voluptatum numquam mollitia neque, maiores eligendi ipsa esse [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<div>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis omnis laudantium sapiente voluptatum numquam mollitia neque, maiores eligendi ipsa esse vero natus ut laborum aut sit alias! Ea provident dicta ipsum accusamus facilis laudantium, nam aliquid nobis consectetur unde molestiae molestias illo adipisci sit laboriosam officia ipsa suscipit porro corporis illum iste deleniti. Dolore, assumenda odio? Beatae dignissimos atque natus quasi non nemo eos aspernatur similique sequi, veniam, minus voluptatum consequatur dolores unde autem tempora optio delectus hic vitae? Tempora eveniet expedita ipsa distinctio asperiores sint ducimus, commodi dolorum beatae nemo dolorem doloribus ut quis est! Minima, eius saepe. Voluptates dignissimos totam facere laudantium ad delectus itaque maiores perspiciatis, dolorem esse numquam, doloribus nostrum inventore quasi quos est sed dolores voluptatum, porro officiis molestias modi ducimus. Facilis quasi blanditiis aspernatur voluptates dolores sit sunt harum fuga? Unde porro rem quibusdam quia. Dicta illum quod necessitatibus, consequuntur natus dolorum culpa veritatis veniam facilis sit, numquam quam laudantium inventore ab quaerat alias odio. Rerum architecto cum expedita maxime itaque, perspiciatis cumque nesciunt fugit eveniet iure mollitia. Ipsa fugit id unde impedit labore eum exercitationem iusto, quaerat consequuntur dicta totam cum a ea rerum neque illo facere veniam atque iste, voluptas architecto possimus?</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rakhmany.github.io/gerakjakarta/2024/11/04/post-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
